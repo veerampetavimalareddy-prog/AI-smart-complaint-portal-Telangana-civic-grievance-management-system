@@ -1,0 +1,2 @@
+# AI-smart-complaint-portal-Telangana-civic-grievance-management-system
+AI Smart Complaint Portal improves Telangana's civic grievance system. It uses AI to automatically sort, track, and route public issues like potholes and water supply to the right department. The system features automated updates, geo-tagging, and fast resolution to ensure transparent, data-driven, and highly efficient city governance
